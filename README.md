@@ -23,4 +23,4 @@ Skills: PHP/ NodeJS / TypeScript / Laravel/ CodeIgniter / Express / HTML / CSS /
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uzzal71)  
 
-![Profile views]([https://github.com/uzzal71](https://avatars.githubusercontent.com/u/32016943?v=4))  
+![Profile views]([https://github.com/uzzal71])(https://github.com/uzzal71)  
