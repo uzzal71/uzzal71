@@ -1,10 +1,15 @@
 ### Hi there 👋, my name is Uzzal Kumar Roy
 #### I am full stack developer
-![I am full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am full stack developer]
 
 I have excellent 3 years of working experience in the software industry. To build my career as a software professional where I can show my skills. I can prove myself as a fast learner and highly qualified professional and help my community through my skills and expertise. I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies. 
 
-Skills: PHP/ NodeJS / TypeScript / Laravel/ CodeIgniter / Express / HTML / CSS / Bootstrap 3 & 4 / JS /  REACT / REDUX
+## 💻 Skills & Experiance: 
+- ✅ PHP, JavaScript, Python
+- ✅ NodeJS, TypeScript, ExpressJS
+- ✅ Laravel, CodeIgniter
+- ✅ HTML, CSS, Bootstrap
+- ✅ REACT, REDUX
 
 - 🔭 I’m currently working on Easital Technology Ltd. 
 - 🌱 I’m currently learning Redux 
