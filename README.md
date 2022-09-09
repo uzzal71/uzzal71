@@ -6,10 +6,10 @@ I have excellent 3 years of working experience in the software industry. To buil
 
 ## 💻 Skills & Experiance: 
 ✅ PHP, JavaScript, Python<br/>
-✅ NodeJS, TypeScript, ExpressJS
-✅ Laravel, CodeIgniter
-✅ HTML, CSS, Bootstrap
-✅ REACT, REDUX
+✅ NodeJS, TypeScript, ExpressJS<br/>
+✅ Laravel, CodeIgniter<br/>
+✅ HTML, CSS, Bootstrap<br/>
+✅ REACT, REDUX<br/>
 
 - 🔭 I’m currently working on Easital Technology Ltd. 
 - 🌱 I’m currently learning Redux 
