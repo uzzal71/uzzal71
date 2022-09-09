@@ -5,7 +5,7 @@
 I have excellent 3 years of working experience in the software industry. To build my career as a software professional where I can show my skills. I can prove myself as a fast learner and highly qualified professional and help my community through my skills and expertise. I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies. 
 
 ## 💻 Skills & Experiance: 
-✅ PHP, JavaScript, Python
+✅ PHP, JavaScript, Python<br/>
 ✅ NodeJS, TypeScript, ExpressJS
 ✅ Laravel, CodeIgniter
 ✅ HTML, CSS, Bootstrap
