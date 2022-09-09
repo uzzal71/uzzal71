@@ -16,9 +16,6 @@ I have excellent 3 years of working experience in the software industry. To buil
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: uzzalroy.acm@gamil.com 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/uzzal71)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uzzal-roy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/uzzal.roy.1466)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal71)
 
 ## ☕ Connect with me!
