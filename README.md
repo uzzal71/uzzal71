@@ -30,6 +30,3 @@ I have excellent 3 years of working experience in the software industry. To buil
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzzal71&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uzzal71)
-
-## 📧 For Business Inquiries 
-✅  ► uzzalroy.acm@gmail.com
