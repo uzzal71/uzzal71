@@ -24,7 +24,7 @@ I have excellent 3 years of working experience in the software industry. To buil
 
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 50%">
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal71)
+      https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal71
   </div>
   <div style="width: 50%">
       ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzzal71&show_icons=true)
