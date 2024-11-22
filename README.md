@@ -9,6 +9,3 @@
 
 ## 🚀 About Me
 I have excellent working experience in the software industry. To build my career as a software professional where I can show my skills. I can prove myself as a fast learner and highly qualified professional and help my community through my skills and expertise. I always look for challenges where I can use my potential most and always love to work on cutting-edge technologies. 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uzzal71&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
